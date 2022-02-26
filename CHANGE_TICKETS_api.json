@@ -1,0 +1,39 @@
+[
+    {
+        "ticket": "c12345",
+        "servers": ["", "", ""],
+        "status": "approved",
+        "dateimpl": "2022-02-24",
+        "approvedBy": "Gaston Lagaffe"
+    },
+
+    {
+        "ticket": "c12346",
+        "servers": ["", "", ""],
+        "status": "approved",
+        "dateimpl": "2022-04-05",
+        "approvedBy" : "Jean Chretien"
+    },
+
+    {
+        "ticket": "c12347",
+        "servers": ["", "", ""],
+        "status": "approved",
+        "dateimpl": "2022-02-24",
+        "approvedBy" : "Bernard Landry"
+    },
+
+    {
+        "ticket": "c12348",
+        "servers": ["", "", ""],
+        "status": "canceled",
+        "dateimpl": "2022-02-24"
+    },
+
+    {
+        "ticket": "c12349",
+        "servers": ["", "", ""],
+        "status": "new",
+        "dateimpl": "2022-02-24"
+    }
+]
