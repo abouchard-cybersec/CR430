@@ -1,14 +1,16 @@
 [
     {
         "ticket": "c12345",
+		"cateogory": "patching",
         "servers": ["", "", ""],
         "status": "approved",
-        "dateimpl": "2022-02-24",
+        "dateimpl": "2022-03-01",
         "approvedBy": "Gaston Lagaffe"
     },
 
     {
         "ticket": "c12346",
+		"cateogory": "patching",
         "servers": ["", "", ""],
         "status": "approved",
         "dateimpl": "2022-04-05",
@@ -17,23 +19,42 @@
 
     {
         "ticket": "c12347",
+		"cateogory": "patching",
         "servers": ["", "", ""],
         "status": "approved",
-        "dateimpl": "2022-02-24",
+        "dateimpl": "2022-02-28",
         "approvedBy" : "Bernard Landry"
     },
 
     {
         "ticket": "c12348",
+		"cateogory": "patching",
         "servers": ["", "", ""],
         "status": "canceled",
-        "dateimpl": "2022-02-24"
+        "dateimpl": "2022-02-28"
     },
 
     {
         "ticket": "c12349",
+		"cateogory": "patching",
         "servers": ["", "", ""],
         "status": "new",
-        "dateimpl": "2022-02-24"
+        "dateimpl": "2022-02-28"
+    },
+	
+	{
+        "ticket": "c12350",
+		"cateogory": "decommissionning",
+        "servers": ["", "", ""],
+        "status": "approved",
+        "dateimpl": "2022-03-03"
+    },
+	
+	{
+        "ticket": "c12351",
+		"cateogory": "installation",
+        "servers": ["", "", ""],
+        "status": "approved",
+        "dateimpl": "2022-03-03"
     }
 ]
