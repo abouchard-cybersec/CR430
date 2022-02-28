@@ -1,7 +1,7 @@
 [
     {
         "ticket": "c12345",
-	"cateogory": "patching",
+	"category": "patching",
         "servers": ["win-a-001", "win-a-002", "win-a-003", "win-a-004", "win-a-005", "win-a-006", "rhel-a-014"],
         "status": "approved",
         "dateimpl": "2022-03-01",
@@ -10,7 +10,7 @@
 
     {
         "ticket": "c12346",
-	"cateogory": "patching",
+	"category": "patching",
         "servers": ["rhel-a-001", "rhel-a-003", "win-b-002", "win-b-003"],
         "status": "approved",
         "dateimpl": "2022-04-05",
@@ -19,7 +19,7 @@
 
     {
         "ticket": "c12347",
-	"cateogory": "patching",
+	"category": "patching",
         "servers": ["win-b-001", "win-b-004", "win-b-005"],
         "status": "approved",
         "dateimpl": "2022-02-28",
@@ -28,7 +28,7 @@
 
     {
         "ticket": "c12348",
-	"cateogory": "patching",
+	"category": "patching",
         "servers": ["win-b-006", "win-b-007", "win-b-008"],
         "status": "canceled",
         "dateimpl": "2022-02-28"
@@ -36,7 +36,7 @@
 
     {
         "ticket": "c12349",
-	"cateogory": "patching",
+	"category": "patching",
         "servers": ["rhel-a-010", "rhel-a-011", "rhel-a-012"],
         "status": "new",
         "dateimpl": "2022-02-28"
@@ -44,7 +44,7 @@
 	
 	{
         "ticket": "c12350",
-	"cateogory": "decommissionning",
+	"category": "decommissionning",
         "servers": ["rhel-a-008", "rhel-a-009", "rhel-a-010"],
         "status": "approved",
         "dateimpl": "2022-03-03"
@@ -52,7 +52,7 @@
 	
 	{
         "ticket": "c12351",
-	"cateogory": "installation",
+	"category": "installation",
         "servers": ["win-c-001", "win-c-002", "win-c-003", "win-c-004"],
         "status": "approved",
         "dateimpl": "2022-03-03"
