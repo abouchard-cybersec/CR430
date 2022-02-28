@@ -4,7 +4,7 @@
 	"category": "patching",
         "servers": ["win-a-001", "win-a-002", "win-a-003", "win-a-004", "win-a-005", "win-a-006", "rhel-a-014"],
         "status": "approved",
-        "dateimpl": "2022-03-01",
+        "dateimpl": "2022-02-27",
         "approvedBy": "Gaston Lagaffe"
     },
 
@@ -13,7 +13,7 @@
 	"category": "patching",
         "servers": ["rhel-a-001", "rhel-a-003", "win-b-002", "win-b-003"],
         "status": "approved",
-        "dateimpl": "2022-04-05",
+        "dateimpl": "2022-02-27",
         "approvedBy" : "Jean Chretien"
     },
 
@@ -31,7 +31,7 @@
 	"category": "patching",
         "servers": ["win-b-006", "win-b-007", "win-b-008"],
         "status": "canceled",
-        "dateimpl": "2022-02-28"
+        "dateimpl": "2022-02-27",
     },
 
     {
@@ -39,7 +39,7 @@
 	"category": "patching",
         "servers": ["rhel-a-010", "rhel-a-011", "rhel-a-012"],
         "status": "new",
-        "dateimpl": "2022-02-28"
+        "dateimpl": "2022-02-27",
     },
 	
 	{
@@ -47,7 +47,7 @@
 	"category": "decommissionning",
         "servers": ["rhel-a-008", "rhel-a-009", "rhel-a-010"],
         "status": "approved",
-        "dateimpl": "2022-03-03"
+        "dateimpl": "2022-02-27",
     },
 	
 	{
